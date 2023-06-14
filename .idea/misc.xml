@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/drawable-v24/circle_gray.xml" value="0.123" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/drawable/action_done_drawable.xml" value="0.1385" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/drawable/circle.xml" value="0.134" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/drawable/ic_launcher_background.xml" value="0.134" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/drawable/item_circular_accent_color_border.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.154" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/drawable/item_circular_color_thin_border.xml" value="0.1385" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/drawable/item_color_acccent_border_rippled.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/drawable/item_color_accent_background.xml" value="0.123" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/drawable/radio_group_tab_background.xml" value="0.1" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/drawable/radio_tab_selector.xml" value="0.1" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/drawable/rectangle_edit_text_border.xml" value="0.1385" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/drawable/unit_tab_color_selector.xml" value="0.1" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/layout/activity_bmi.xml" value="0.32281553398058255" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/layout/activity_exercise.xml" value="0.39792387543252594" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/layout/activity_finish.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/layout/activity_history.xml" value="0.2" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/layout/dialog_custom_back_pressed.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/layout/item_history_row.xml" value="0.4" />
+        <entry key="..\:/Users/amar/7MinWorkout/app/src/main/res/layout/item_recyclerview_layout.xml" value="0.18432971014492755" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
